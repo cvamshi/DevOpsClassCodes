@@ -20,6 +20,7 @@ import org.slf4j.LoggerFactory;
  * @version 1.0 
  *
  */
+// to test jenkins pipeline
 public class StringUtilities {
 	/**
 	 * The string separator for splitting a string into a list
